@@ -1,4 +1,4 @@
-# Exp.No:7a
+# Exp.No: 32
 ## CONVERSION OF INFIX TO POSTFIX
 
 ---
